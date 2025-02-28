@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  I am a self-driven, career-oriented software developer specializing in front-end development and open-source technologies. Currently, I am pursuing a Bachelor's degree in Computer Science. My expertise lies in building interactive web applications on the client side, primarily using technologies like JavaScript, Next.js, TypeScript, and Python.<br><br>
+  I am a self-driven, career-oriented software developer specializing in Banking and Finance domains  worked on various open-source technologies. My expertise lies in building interactive banking and financial web applications on the client side,using Java and Python.<br><br>
   I strongly believe in continuous learning and self-improvement, which is why I strive to learn from every situation, favorable or not.<br><br>
   In addition to my front-end development skills, I am deeply passionate about leveraging Artificial Intelligence and Machine Learning to solve complex problems and drive innovative solutions. With a strong foundation in both the theoretical and practical aspects of AI and ML, I thrive on building intelligent systems that enhance efficiency, accessibility, and decision-making.<br><br>
   My expertise spans machine learning, deep learning, and data-driven problem-solving, and I am always eager to explore emerging technologies that push the boundaries of AI. Whether it's developing custom models, working on real-world applications, or optimizing data-driven workflows, I am committed to continuous learning and impactful contributions in the AI space.<br><br>
